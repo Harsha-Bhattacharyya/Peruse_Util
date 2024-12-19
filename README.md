@@ -8,4 +8,4 @@ Peruse is a user-friendly command-line utility designed for viewing file content
   Simply use the pru command with a file SYNTAX: <tt>pru [filename]</tt>
 
 ### Install
-  Clone this repo then run the script inside install-scripts directory
+  Clone this repo then run the script inside install-scripts directory. Root acess is nessasary
