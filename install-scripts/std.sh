@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd src/
+cd .. && cd src/
 make install
 sudo mv pru /bin
 sudo cd /bin
